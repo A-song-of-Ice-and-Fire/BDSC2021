@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[user]
+	name = wyw
+	email = 1206182848@qq.com
+[remote "disease_simulation"]
+	url = https://github.com/A-song-of-Ice-and-Fire/disease_simualtion.git
+	fetch = +refs/heads/*:refs/remotes/disease_simulation/*
